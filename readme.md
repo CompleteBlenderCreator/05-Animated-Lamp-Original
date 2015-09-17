@@ -99,6 +99,11 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Great for complex Scenes on ANY computer.
 * An alternative to rending in the viewport.
 
+# Using Curves To Generate Geometry
+* Using curves makes it infinitely editable.
+* Changing the bézier handle type.
+* Generate a 3D object by defining curves.
+
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
