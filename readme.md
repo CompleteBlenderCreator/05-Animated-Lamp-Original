@@ -93,6 +93,11 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Show that lamps sort of work in Blender.
 * How to create a light source as geometry and then apply an emissive material to that object.
 
+# Rendering A Small Area
+* Show you how to render just a part of your scene.
+* Great for those with slower machines.
+* Great for complex Scenes on ANY computer.
+* An alternative to rending in the viewport.
 
 
 ---
