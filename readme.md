@@ -89,6 +89,10 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Create a basic environment for our lamp.
 * Run through a couple of options.
 
+# Lighting With Cycles
+* Show that lamps sort of work in Blender.
+* How to create a light source as geometry and then apply an emissive material to that object.
+
 
 
 ---
