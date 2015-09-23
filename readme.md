@@ -104,6 +104,12 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Changing the bézier handle type.
 * Generate a 3D object by defining curves.
 
+## Creating Geometry From A Curve
+* Refresh our knowledge on this.
+* Converting our curve object to a mesh object.
+* We can then perform mesh operations on it.
+* We can choose to delete the original curve data if we want to.
+
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
