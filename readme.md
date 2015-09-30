@@ -126,5 +126,11 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Separate immediately creating a new object.
 * This allows us to match up parts of our model, even when they’re not exact sizes.
 
+# Design and Considerations
+* Design a rough outline for the lamp.
+* Make it believable as an object.
+* I have chosen a simple and raw design.
+* Remember It can always be beautified later on.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
