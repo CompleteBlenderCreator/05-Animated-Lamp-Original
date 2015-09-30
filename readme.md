@@ -121,6 +121,10 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * We’ll be altering the curve resolution AND the mesh!
 * Tidy up the rest of our geometry.
 
+# Existing Geometry To Create New
+* Use an existing face to create a new face.
+* Separate immediately creating a new object.
+* This allows us to match up parts of our model, even when they’re not exact sizes.
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
