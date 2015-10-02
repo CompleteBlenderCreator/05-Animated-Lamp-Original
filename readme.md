@@ -132,5 +132,9 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * I have chosen a simple and raw design.
 * Remember It can always be beautified later on.
 
+# Introduction to Armatures
+* Learn about the armature object.
+* Add an Armature to your model.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
