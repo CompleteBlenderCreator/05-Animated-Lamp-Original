@@ -136,5 +136,11 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Learn about the armature object.
 * Add an Armature to your model.
 
+# Revisiting the Mirror Modifier
+* Learn how to use another object as the point of reflection.
+* Understand that it is the origin that acts as the point of reflection.
+* See other objects rotational values change the axes of  reflection.
+
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
