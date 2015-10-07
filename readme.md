@@ -150,6 +150,11 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Understand that we use this mode to test our models movement.
 * Know that this the best mode to be in to parent mesh objects to individual bones. and to make alterations.
 
+# Rest Position and Pose Position
+* Understand the differences between rest position and pose position.
+* You can see the rest position when in edit mode.
+* How to clear the pose back to the rest state.
+
 
 
 ---
