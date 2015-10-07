@@ -139,7 +139,11 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 # Revisiting the Mirror Modifier
 * Learn how to use another object as the point of reflection.
 * Understand that it is the origin that acts as the point of reflection.
-* See other objects rotational values change the axes of  reflection.
+* See other objects rotational values change the axes of reflection.
+
+# Adding Bones To Our Armature
+* Learn how to add additional bones to an armature.
+* Understand that a new bone does not have to be connected to the previous one.
 
 
 ---
