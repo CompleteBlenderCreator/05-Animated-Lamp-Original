@@ -145,6 +145,12 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Learn how to add additional bones to an armature.
 * Understand that a new bone does not have to be connected to the previous one.
 
+# Pose Mode
+* Be introduced to pose mode
+* Understand that we use this mode to test our models movement.
+* Know that this the best mode to be in to parent mesh objects to individual bones. and to make alterations.
+
+
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
