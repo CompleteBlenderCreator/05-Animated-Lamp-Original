@@ -159,7 +159,12 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Be able to lock movement to a single axis.
 * Constrain the degree of movement possible.
 
+# The Solidify Modifier
+* Create a 3D object from just curves.
+* Give the new object thickness using the solidify modifier.
 
+# AL26 Introduction To The Node Editor
+* 
 
 
 ---
