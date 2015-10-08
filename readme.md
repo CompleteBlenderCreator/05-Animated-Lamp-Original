@@ -155,6 +155,11 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * You can see the rest position when in edit mode.
 * How to clear the pose back to the rest state.
 
+# Constraining Bones Movement
+* Be able to lock movement to a single axis.
+* Constrain the degree of movement possible.
+
+
 
 
 ---
