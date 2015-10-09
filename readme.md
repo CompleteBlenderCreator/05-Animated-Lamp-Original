@@ -163,8 +163,16 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Create a 3D object from just curves.
 * Give the new object thickness using the solidify modifier.
 
-# AL26 Introduction To The Node Editor
-* 
+# Introduction To The Node Editor
+* Open up the node editor.
+* Create some basic materials.
+* Apply these materials to our model.
+* See how adjustments in the node editor affect our model.
+
+# Lamps vs Emissive Materials In Cycles
+* Learn the differences between the two light sources when using the cycles engine.
+* Understand that there is time and place for both.
+* Use the blackbody node.
 
 
 ---
