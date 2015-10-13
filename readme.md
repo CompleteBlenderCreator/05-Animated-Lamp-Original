@@ -185,5 +185,11 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Shown how to adjust the playback and rendering range.
 * How to alter the Frames Per Second (FPS) of your animation.
 
+# Key Frames
+* Understand what they are and how they are used.
+* Be shown how to automatically add them and remove them from the Timeline view.
+* Realise almost everything can be keyframed.
+* Be able to use key frames to animate your lamp.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
