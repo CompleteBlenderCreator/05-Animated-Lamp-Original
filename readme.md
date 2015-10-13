@@ -191,5 +191,10 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Realise almost everything can be keyframed.
 * Be able to use key frames to animate your lamp.
 
+# Setting Up The Camera
+* Understand that the camera view is for our animation rendering as well as a normal rendering.
+* Setup the camera ready for the Animation.
+* Animate the Camera!
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
