@@ -196,5 +196,9 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Setup the camera ready for the Animation.
 * Animate the Camera!
 
+# Rendering An Animation
+* Learn how to use multiple computers to render an animation.
+* Learn how to use multiple instances of Blender to utilise the CPU and GPU on your computer.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
