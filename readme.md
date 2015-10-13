@@ -200,5 +200,10 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Learn how to use multiple computers to render an animation.
 * Learn how to use multiple instances of Blender to utilise the CPU and GPU on your computer.
 
+# Rendering Across Multiple Blenders
+* Use multiple computers to render an animation.
+* Learn how to use multiple instances of Blender to utilise the CPU and GPU on your computer.
+* Decide on how many samples for the final animation.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
