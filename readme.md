@@ -180,5 +180,10 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Understand it applies to the whole rig.
 * See that it allows us to control the connected bones all at once.
 
+# The Timeline
+* Be introduced to the timeline
+* Shown how to adjust the playback and rendering range.
+* How to alter the Frames Per Second (FPS) of your animation.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
