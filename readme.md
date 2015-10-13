@@ -174,6 +174,11 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Understand that there is time and place for both.
 * Use the blackbody node.
 
+# Auto Inverse Kinematics (IK)
+* Learn how to turn on Auto IK.
+* Realise that this is a starting point and not perfect!
+* Understand it applies to the whole rig.
+* See that it allows us to control the connected bones all at once.
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
