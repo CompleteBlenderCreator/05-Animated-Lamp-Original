@@ -205,5 +205,13 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Learn how to use multiple instances of Blender to utilise the CPU and GPU on your computer.
 * Decide on how many samples for the final animation.
 
+# Creating A Video of Your Animation
+* Be Introduced to the Video Editor.
+* Combine your Rendered images in to a final video.
+* Explore various exporting options.
+* Export the images to a movie file.
+
+
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
