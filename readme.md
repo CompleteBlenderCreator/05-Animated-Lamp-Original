@@ -211,7 +211,9 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Explore various exporting options.
 * Export the images to a movie file.
 
-
+# Exporting Your Model
+* Learn how to setup the FBX Export and understand why we use it.
+* Realise that your model is currently only suitable for Blender.  The Export doesn’t fully work in the models current state. 
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
