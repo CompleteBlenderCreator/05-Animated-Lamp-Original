@@ -225,5 +225,9 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Rename your Vertex Groups and Bones so that they match.
 * Test your new rig.
 
+# Exporting The Final Model
+* Export the model and test it.
+* Just watch if you don’t have unity or unreal installed so you can see the process.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
