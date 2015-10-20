@@ -220,5 +220,10 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Assign vertices to a vertex group.
 * See that because we created our model in parts, it is really easy to assign groupings.
 
+# Re-rigging Our Model
+* Un parent your lamp meshes and join them together ending up with one mesh object.
+* Rename your Vertex Groups and Bones so that they match.
+* Test your new rig.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
