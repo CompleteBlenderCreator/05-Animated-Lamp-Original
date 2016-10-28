@@ -1,4 +1,4 @@
-# SECTION 5 An Animated Lamp 
+﻿# SECTION 5 An Animated Lamp 
 ****
 
 Part of the Complete Blender Creator course on Udemy, see [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount) for a special GitHub offer. The full course is part of [this](https://www.kickstarter.com/projects/bentristem/how-to-create-3d-assets-using-blender-online-cours) Kickstarter campaign which was 1000% funded.
@@ -132,7 +132,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * I have chosen a simple and raw design.
 * Remember It can always be beautified later on.
 
-# Introduction to Armatures
+# Introduction to Armatures (Updated 28/10/2016)
 * Learn about the armature object.
 * Add an Armature to your model.
 
