@@ -1,4 +1,4 @@
-﻿# SECTION 5 An Animated Lamp 
+﻿# SECTION 5 An Animated Lamp
 ****
 
 Part of the Complete Blender Creator course on Udemy, see [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount) for a special GitHub offer. The full course is part of [this](https://www.kickstarter.com/projects/bentristem/how-to-create-3d-assets-using-blender-online-cours) Kickstarter campaign which was 1000% funded.
@@ -44,7 +44,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 # Render Time Differences
 * I will be showing you 3 Clips of a 4 second bowling ball animation.
 * Blender Render - 2 mins
-* Basic Cycles Render - 15 mins 
+* Basic Cycles Render - 15 mins
 * Thorough Cycles Render - 4 hours!
 
 # Your Machine Specs : CPU
@@ -111,7 +111,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * We can choose to delete the original curve data if we want to.
 
 # Altering Curve Resolution
-* Culling Unnecessary Geometry 
+* Culling Unnecessary Geometry
 * We kept the curve data so have two options:
 * Remake our mesh object, from those curves.
 * Fiddle about with the geometry itself.
@@ -205,7 +205,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Learn how to use multiple instances of Blender to utilise the CPU and GPU on your computer.
 * Decide on how many samples for the final animation.
 
-# Creating A Video of Your Animation
+# Creating A Video of Your Animation (Edited to reflect new forum 22/12/2016)
 * Be Introduced to the Video Editor.
 * Combine your Rendered images in to a final video.
 * Explore various exporting options.
@@ -213,7 +213,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 
 # Exporting Your Model
 * Learn how to setup the FBX Export and understand why we use it.
-* Realise that your model is currently only suitable for Blender.  The Export doesn’t fully work in the models current state. 
+* Realise that your model is currently only suitable for Blender.  The Export doesn’t fully work in the models current state.
 
 # Vertex Groups
 * Learn what a vertex group is.
