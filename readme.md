@@ -141,7 +141,7 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Understand that it is the origin that acts as the point of reflection.
 * See other objects rotational values change the axes of reflection.
 
-# Adding Bones To Our Armature
+# Adding Bones To Our Armature (updated 22/02/2017)
 * Learn how to add additional bones to an armature.
 * Understand that a new bone does not have to be connected to the previous one.
 
