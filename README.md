@@ -254,7 +254,3 @@ Mikey and Ben Introduce the Animated Lamp Section.
 ### End of Section 5 Wrap Up ###
 
 Mikey talks through the end of section wrap up.
-
-
----
-Find out more about our [Complete Blender Creator Course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount).
