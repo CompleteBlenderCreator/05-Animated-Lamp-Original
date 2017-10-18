@@ -1,6 +1,7 @@
 ### 1 Section 5 Introduction
 
-Mikey and Ben Introduce the Animated Lamp Section.
++ Mikey and Ben Introduce the Animated Lamp Section.
++ Mikey gives a quick run through of what is coming up in the next section.
 
 ### 3 Your Section 5 Assets
 
