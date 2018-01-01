@@ -132,6 +132,7 @@
 + Make it believable as an object.
 + I have chosen a simple and raw design.
 + Remember It can always be beautified later on.
++ (Updated 01/01/2018)
 
 ### 19 Introduction to Armatures
 
