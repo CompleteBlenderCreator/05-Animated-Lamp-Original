@@ -150,6 +150,12 @@
 + Learn how to add additional bones to an armature.
 + Understand that a new bone does not have to be connected to the previous one.
 
+### 21a Applying Transforms With Animations
+
++ Quick Reminder
++ If not done can have some very confusing issues
++ Remember Edit mode for editing
+
 ### 22 Pose Mode
 
 + Be introduced to pose mode
