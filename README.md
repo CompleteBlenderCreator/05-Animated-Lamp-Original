@@ -197,6 +197,8 @@
 + Realise that this is a starting point and not perfect!
 + Understand it applies to the whole rig.
 + See that it allows us to control the connected bones all at once.
++ Auto IK ignores any existing bone constraints
++ (Updated 19/02/2018)
 
 ### 29 The Timeline
 
