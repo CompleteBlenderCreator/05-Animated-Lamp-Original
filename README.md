@@ -15,6 +15,8 @@
 + Later on rendering times are likely to be longer that the last section.
 + We'll be making and testing the Lamp as we go.
 
+(Updated 16/04/2018)
+
 ### 5 Cycles VS Blender Render
 
 + Blender Render is generally quick and you get a reasonable result quickly. - Uses CPU Only.
