@@ -253,6 +253,7 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 + Combine your rendered images in to a final video.
 + Explore various exporting options.
 + Export the images to a movie file.
++ (Updated for 2.79 9/6/2018)
 
 ### 35 Exporting Your Lamp Model
 
